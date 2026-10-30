@@ -1,0 +1,6 @@
+inspection_id,lot_id,machine_id,temperature_c,checked_count,failed_count,status
+0001,DEMO-A,TOOL-1,24.5,100,2,checked
+0002,DEMO-A,TOOL-2,24.9,80,1,checked
+0003,DEMO-B,TOOL-1,25.1,120,4,checked
+0005,DEMO-C,TOOL-2,NA,110,2,pending
+0006,DEMO-D,TOOL-3,25.0,60,1,checked
